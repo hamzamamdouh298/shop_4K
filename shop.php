@@ -66,9 +66,7 @@ include 'components/wishlist_cart.php';
       echo '<p class="empty">no products found!</p>';
    }
    ?>
-
    </div>
-
 </section>
 
 
