@@ -70,7 +70,6 @@ if(isset($_SESSION['user_id'])){
          </div>
          <h3> <a href="images/appwallpaper.jpg" target="_blank">S A M</a ></h3>
       </div>
-
       <div class="swiper-slide slide">
          <img src="images/Screenshot 2024-06-09 095851.png" alt="">
          <p>I EDIT IT</p>
