@@ -87,7 +87,6 @@ if(isset($_POST['update_qty'])){
    }
    ?>
    </div>
-
    <div class="cart-total">
       <p>Grand Total : <span>$.<?= $grand_total; ?>/-</span></p>
       <a href="shop.php" class="option-btn">Continue Shopping.</a>
